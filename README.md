@@ -9,19 +9,19 @@ The system is divided into several key components, each represented by an AI age
 4.	**Editor Agent**: The final step belongs to this agent, which reviews and refines the drafted article. It ensures that the text adheres to high editorial standards and is polished for publication.
 
 - **Technologies Used**
-•	Hugging Face Transformers: At the core of our agents, these models provide powerful NLP capabilities that drive all aspects of text generation, summarization, and enhancement.
-•	Python: The primary programming language used for developing the agents.
-•	GitHub Actions: Employed for CI/CD pipelines to automate testing and deployment.
+•	**Hugging Face Transformers**: At the core of our agents, these models provide powerful NLP capabilities that drive all aspects of text generation, summarization, and enhancement.
+•	**Python**: The primary programming language used for developing the agents.
+•	**GitHub Actions**: Employed for CI/CD pipelines to automate testing and deployment.
 
 - **Getting Started**
 To get started with this project, clone the repository and install the required dependencies:
-git clone https://github.com/yourgithubusername/agents-article-huggingface.git
-cd agents-article-huggingface
-pip install -r requirements.txt
+- git clone https://github.com/yourgithubusername/agents-article-huggingface.git
+- cd agents-article-huggingface
+- pip install -r requirements.txt
 
 - **Usage**
 Follow the instructions below to run the system:
-python run_agents.py
+- python run_agents.py
 
 
 - **Contributing**
@@ -29,6 +29,6 @@ We welcome contributions from the community, whether it's improving code efficie
 - **License**
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 - **Acknowledgments**
-•	Hugging Face for providing access to their state-of-the-art models.
-•	Contributors and community members who have offered insights and improvements.
+-	Hugging Face for providing access to their state-of-the-art models.
+-	Contributors and community members who have offered insights and improvements.
 
